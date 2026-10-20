@@ -1,0 +1,39 @@
+body {
+  background-color: #b19568;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  color: #8a3ffc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d63384;
+}
+
+img {
+  border: 3px solid #8a3ffc;
+  border-radius: 12px;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #555;
+  padding: 4px;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #e6d9f5;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
