@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-  color: #d63384;
+  color: #42acb3;
 }
 
 img {
@@ -26,7 +26,7 @@ th,
 td {
   border: 1px solid #555;
   padding: 4px;
-  text-align: left;
+  text-align: middle;
 }
 
 tr:nth-child(even) {
