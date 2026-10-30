@@ -3,12 +3,55 @@ body {
   background: #1a1a1d;
   color: #f5f5f5;
   font-family: "Poppins", Arial, sans-serif;
-  line-height: 1.6;
 }
 
 .page {
-  max-width: 123px;
+  max-width: 1230px;
   min-height: 100vh;
   margin: 0 auto;
   background: #1a1a1d;
+}
+
+/* Top bar with logo */
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  background: #2b2b2e;
+  border-bottom: 3px solid #fe0207;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  background: #fe0207;
+}
+
+.logo img {
+  display: block;
+  width: 96px;
+  height: 96px;
+}
+
+.topbar ul {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin: 0;
+  padding: 0 4rem 0 0;
+  list-style: none;
+}
+
+.topbar a.link {
+  color: #f5f5f5;
+  text-decoration: none;
+  padding: 0.25rem 0;
+}
+
+.topbar a.link:hover,
+.topbar a.link[aria-current="page"] {
+  color: #ffc233;
+  border-bottom: 2px solid #ffc233;
 }
