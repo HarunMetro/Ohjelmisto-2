@@ -8,8 +8,8 @@ const sum = n1 + n2 + n3;
 const product = n1 * n2 * n3;
 const average = sum / 3;
 
-document.write(`
+document.querySelector("#results").innerHTML = `
   <p>Sum: ${sum}</p>
   <p>Product: ${product}</p>
   <p>Average: ${average}</p>
-
+`;
