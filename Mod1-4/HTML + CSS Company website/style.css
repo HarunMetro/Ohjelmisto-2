@@ -170,6 +170,10 @@ iframe.map {
   object-fit: cover;
 }
 
+.chicken-burger-image {
+  object-position: center 25%;
+}
+
 .card figcaption {
   font-style: italic;
   font-size: 0.9rem;
