@@ -1,0 +1,10 @@
+.box {
+    background-color: rebeccapurple;
+    color: lightgoldenrodyellow;
+    height: 30px;
+    width: 200px;
+    font-size: 20px;
+    padding: 30px;
+    margin: 20px;
+}
+

@@ -8,7 +8,7 @@
 
 ## Assignment 1: HTML + CSS Company website
 
-[Company Website](https://harunmetro.github.io/Ohjelmisto-2/Mod1-4/HTML%20%2B%20CSS%20Company%20website/index.html)
+[Company Website](https://harunmetro.github.io/Ohjelmisto-2/Mod1-4/HTML-+-CSS-Company-website/index.html)
 
 ## Software 2 programming assignments
 
@@ -33,3 +33,15 @@ Completed assignments:
 - Task 1: 2p
 
 **Total: 19p**
+
+### JavaScript module 3 — [assignments](https://harunmetro.github.io/Ohjelmisto-2/#javascript-3-assignments)
+
+Completed assignments:
+
+### JavaScript module 4 — [assignments](https://harunmetro.github.io/Ohjelmisto-2/#javascript-4-assignments)
+
+Completed assignments:
+
+### JavaScript module 5 — [assignments](https://harunmetro.github.io/Ohjelmisto-2/#javascript-5-assignments)
+
+Completed assignments:
